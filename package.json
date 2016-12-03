@@ -1,0 +1,19 @@
+{
+  "name": "aoc2016",
+  "version": "1.0.0",
+  "description": "Advent of Code 2016 http://adventofcode.com/2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbuentello/aoc2016.git"
+  },
+  "author": "Daniel Buentello",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dbuentello/aoc2016/issues"
+  },
+  "homepage": "https://github.com/dbuentello/aoc2016#readme"
+}
